@@ -1,18 +1,3 @@
-h1 {
-    color: #ff4006;
-    font-size: 500%;
-    text-decoration: underline pink dotted 4px;
-}
-
-
-.intro {
-    text-align: center;
-    
-}
-
-#cat {
-    display: block;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+#intro-h1 {
+    font-size: 4em;
 }
